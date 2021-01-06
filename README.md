@@ -18,6 +18,8 @@
 
 - [Project 3](https://www.figma.com/file/ZhMMu6FDsryBAJfYaTC7Yw/Project-3-Part-6-hi-fi)
 
+    - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Figma_project3.png)
+
 - [Project 3 Slides](https://www.figma.com/proto/ZhMMu6FDsryBAJfYaTC7Yw/Project-3-Part-6-hi-fi?node-id=0%3A1)
 
 ### Web Design 3 (EWU: DESN 468)
