@@ -25,11 +25,17 @@
 
 - [Movie API](https://www.figma.com/file/L1VwbXLLUx8wuJ0RYFeTBOaz/movieDB)
 
+    - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Wireframe_OMDB.png)
+
 ### Senior Capstone (CSCD 
 
 - [Project Logo](https://www.figma.com/file/jnP7BGsZY8uknXpLLd9P4i/iNavig8-Logo)
 
+    - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Figma_iNavig8-Logo.png)
+
 - [Design System and Web Pages](https://www.figma.com/file/ucSJ31D7zbq6J6Ah9awG21/Web-App)
+
+    - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Figma_iNavig8-pages.png)
 
 ### Web Applications (EWU: CSCD 378)
 
