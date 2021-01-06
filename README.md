@@ -34,6 +34,3 @@
 ### Web Applications (EWU: CSCD 378)
 
 - [STA Schedule](https://www.figma.com/file/uySf5FFtgz5TnJvCl2plln/STA-Schedule)
-
-
-
