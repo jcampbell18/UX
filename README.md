@@ -16,6 +16,8 @@
 
 - [Project 2](https://www.figma.com/file/L5jRdnBP7Eodjn6jFXvrMA/Project2Part7)
 
+    - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Figma_project2.png)
+
 - [Project 3](https://www.figma.com/file/ZhMMu6FDsryBAJfYaTC7Yw/Project-3-Part-6-hi-fi)
 
     - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Figma_project3.png)
