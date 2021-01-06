@@ -10,6 +10,7 @@
 
 - [Login and Registration](https://www.figma.com/file/wW17W0gD4gj3tkR69JXnMB/Login-and-Registration-w-Col-Grid)
 
+    - ![screenshot](https://github.com/jcampbell18/UX/blob/main/Figma_Addidas.png)
 
 ### UX 3 (EWU: DESN 458)
 
